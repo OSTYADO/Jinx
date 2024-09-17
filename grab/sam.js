@@ -1,4 +1,4 @@
-/*
+û/*
 
 
 # Owner ? : 𝕶𝖎𝖓𝖌 𝕾𝖆𝖓
@@ -219,7 +219,7 @@ year: "numeric"
 if (!sam.public) {
     if (!isDeveloper) return
 }
-let rn = ['recording'] 
+let rn = ['typing'] 
 let jd = rn[Math.floor(Math.random() * rn.length)];
 if (m.message) {
 sam.sendPresenceUpdate(jd, from)
