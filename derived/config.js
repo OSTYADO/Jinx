@@ -35,7 +35,7 @@ premium: 'You are not a premium user.',
 seller: 'This feature can only be used by resellers and owners.',
 usingsetpp: `Setpp can only be used by the owner, do you think I'm stupid?`,
 wait: '*Waiting for processing*',
-success: 'Success sent by Spider V7',
+success: 'Success sent by JINX',
 bugrespon: `Processs.....`
 }
 
